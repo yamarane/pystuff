@@ -1,0 +1,10 @@
+txt = input("enter some string >> ")
+txt_len = len(txt)
+
+print('                                          {}'.format('_'*txt_len))
+print('                                        < {} >'.format(txt))
+print('                                          {}'.format('-'*txt_len))
+print('                                       /')
+print('                              /\ /\   /')
+print('                             ( o.o )')
+print('                              > ^ <')
